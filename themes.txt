@@ -1,0 +1,1 @@
+jt -t grade3 -fs 11 -altp -tfs 11 -nfs 115 -dfs 10 -ofs 10 -cursw 2 -cellw 88% -T -f firacode
